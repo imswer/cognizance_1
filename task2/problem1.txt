@@ -6,7 +6,7 @@ step 4: READ number
 step 5: Initialize a to zero
 step 6: Initialize i to zero
 
-step 7.0: for (,i greater than or equal to number,increment i every loop) DO 
+step 7.0: for (i greater than or equal to number,decrement i every loop) DO 
      7.1: a=a-3
 
      
