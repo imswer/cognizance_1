@@ -1,0 +1,24 @@
+step 1: START 
+
+step 2: DISPLAY Enter a number : 
+step 3: number = INPUT 
+step 4: READ number
+step 5: Initialize a to zero
+step 6: Initialize i to zero
+
+step 7.0: for (,i greater than or equal to number,increment i every loop) DO 
+     7.1: a=a-3
+
+     
+
+step 8: END for
+
+step 9.0: if a = number THEN 
+     9.1: Print True  
+
+step 10.0: else
+     10.1:  Print False 
+
+step 11: END if
+
+step 12: STOP
